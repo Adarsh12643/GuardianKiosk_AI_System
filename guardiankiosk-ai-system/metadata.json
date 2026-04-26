@@ -1,0 +1,8 @@
+{
+  "name": "GuardianKiosk AI",
+  "description": "Accelerated Emergency Response and Crisis Coordination in Hospitality using Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
