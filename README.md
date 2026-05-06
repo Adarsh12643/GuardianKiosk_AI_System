@@ -39,7 +39,7 @@ The system utilizes a high-availability flow to ensure low latency during emerge
 ### Installation
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/guardian-kiosk.git](https://github.com/YOUR_USERNAME/guardian-kiosk.git)
+    git clone [https://github.com/Adarsh12643/guardian-kiosk.git](https://github.com/Adarsh12643/guardian-kiosk.git)
     cd guardian-kiosk
     ```
 2.  **Install dependencies**:
